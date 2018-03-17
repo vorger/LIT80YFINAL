@@ -7,6 +7,10 @@ TagManager:
   - Fish
   - Score Text
   - Trash
+  - snitch
+  - stadium
+  - quaffle
+  - bludger
   layers:
   - Default
   - TransparentFX
